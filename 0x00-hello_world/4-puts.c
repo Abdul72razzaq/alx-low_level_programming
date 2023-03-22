@@ -3,9 +3,7 @@
 
 int main(void)
 {
-	string x = "Programming is like building a multilingual puzzle " /n;
-
-	put(x);
+	put("\"Programming is like building a multilingual puzzle");
 
 	return (0);
 }
